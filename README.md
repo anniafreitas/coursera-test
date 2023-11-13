@@ -6,3 +6,6 @@ Coursera test repository
 # Salvando modificações no Git
 
 ## Salvando alterações aula 06
+*usodo comando git restore
+
+*comando git push

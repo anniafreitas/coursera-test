@@ -9,3 +9,5 @@ Coursera test repository
 *usodo comando git restore
 
 *comando git push
+
+*comando git pull

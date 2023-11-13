@@ -11,3 +11,4 @@ Coursera test repository
 *comando git push
 
 *comando git pull
+*comando git fetch
